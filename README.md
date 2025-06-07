@@ -27,7 +27,7 @@
 <li>docker logs is a useful tool for monitoring docker container. Whit this command we can debuge and improve container problem specially when container is ran on background. it shows container activity or troubleshoot issues.</li>
 </ul>
 <h2>Screenshots</h2>
-<img src:"./browser.png" />
-<img src:"./running-container.png" />
+<img src="./browser.png" />
+<img src="./running-container.png" />
 <h2>Challenges faced<h2>
 <caption>The first challenge for me was pulling the image, before I ran docker desktop or docker application I couldn't pull image or use other docker command but when I ran docker desctop this problem fixed.another problem that maight happend is squence of flags, names, repository in a command if we dont consider this sequence the command wont work properly docker --help can helps us to use flags correctly.</caption>
